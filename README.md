@@ -1,1 +1,3 @@
-# threat-intelligence-
+# Threath intelligence 
+# over view                                                                                                                               understand the differences in the type of threat intelligence .gathering intelligence from Open Sources Intelligence(OSINT)platforms.identify indicators of compromise(IOCs).Analyze malicious IPs, Domains, URLs, and file hashes.               
+# features                                                                                                                               -Tactical                                                                                                                               - Operational                                                                                                                           - Technical 
