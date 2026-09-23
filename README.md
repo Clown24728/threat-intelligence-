@@ -12,3 +12,10 @@ URLVoid.
 Go to https://www.abuseipdb.com/  
 Paste 185.220.101.45 into the search box and click check.  
 # Results/Findings.   
+confidence of Abuse: 100%   
+Total Reports : 6,523 times   
+Country: Germany   
+ISP/Network:Network for Tor-Exit traffic.  
+Hostname: Tor-exit-46.for-privacy.net   
+Usage Type : fixed line ISP  
+Domain name : For-Privacy.net   
