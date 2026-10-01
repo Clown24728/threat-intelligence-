@@ -43,7 +43,27 @@ Go to : https://otx.alienvault.com/
 search the IP:185.220.101.45   
 Results: Pulses(threat reports) linking it to Tor exit nodes, Scanning , or abuse.  
 <img width="4253" height="3050" alt="IMG_5683" src="https://github.com/user-attachments/assets/a4bd68f2-c30b-47cb-b643-e4bef7475d5b" />  
-verdict for the IP :Malicious/high risk(Tor exit node heavily abused for attacks) .  
+verdict for the IP :Malicious/high risk(Tor exit node heavily abused for attacks) .    
+# TASK 02  
+Threat intelligence using virustotal objective  
+Analyze a suspicious domain.   
+# Procedures  
+Open virus total (www.virustotal.com)  
+Search the provided domain (suspicious-update.com)  
+<img width="4284" height="3030" alt="IMG_5739" src="https://github.com/user-attachments/assets/d8a65a4c-194b-4868-b20c-48d1f15e4eb9" />  
+No security officer flagged this domain as malicious, clean and no malicious record.  
+Open www.urlvoid.com  
+<img width="4284" height="3041" alt="IMG_5740" src="https://github.com/user-attachments/assets/7eb93894-2a2f-4022-b9e4-0a5cbdc10252" />  
+No security officer flagged this domain as malicious.
 
+Open https://otx.alienvault.com   
+<img width="3024" height="2210" alt="IMG_5741" src="https://github.com/user-attachments/assets/cebaf90e-4840-41e2-be9e-303311ffa305" />  
+No security officer flagged this domain as malicious   
 
-
+Open https://talosintellegence.com    
+<img width="4284" height="3100" alt="IMG_5743" src="https://github.com/user-attachments/assets/b0e61734-3b66-4029-b033-b1446266cf32" />   
+No security officer flagged this domain as malicious .
+# Investigate the hash :  
+44d88612fea8a8f36de82e1278abb02f   
+this is MD5 hash (32 hex characters ).  
+Go to VirusTotal , then paste the hash .
