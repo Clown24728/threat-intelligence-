@@ -67,3 +67,23 @@ No security officer flagged this domain as malicious .
 44d88612fea8a8f36de82e1278abb02f   
 this is MD5 hash (32 hex characters ).  
 Go to VirusTotal , then paste the hash .
+File type : EICAR virus test file 
+size: 0kb(68bytes)
+antivirus detected : EICAR - test - signature , virus:DOS/EICAR -test - file .  
+yara dectections : SUSP_Just_EICAR, eicar_av_test  
+Retention pulse : 50(pulse) OTX User created    
+Verdict : Malicious    
+Risk -level : medium (or low - medium ,since its only a test file .)  
+File Scores : 6 (medium risk).   
+<img width="1487" height="1105" alt="IMG_5746" src="https://github.com/user-attachments/assets/5d32a5be-7c8c-4f8a-91fa-ec1d925edf6c" />  
+NOTE: when you open the same hash on virustotal , you'll see the same EICAR identification with a long list of AV detection   
+
+<img width="3024" height="2311" alt="IMG_5744" src="https://github.com/user-attachments/assets/c83c8a46-62a2-4e97-9ea8-3c3e60fe6442" />     
+  
+# Note:     
+confirm as the EICAR antivirus test file.   
+Detected by multiple engines as EICAR-TEST-Signature / virus:DOS/EICAR_test_file.     
+File size 68bytes.    
+type :EICAR virus test files.     
+file score on OTX:6 (medium).      
+harmless by design - used only for testing av detection.    
