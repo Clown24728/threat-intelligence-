@@ -86,4 +86,17 @@ Detected by multiple engines as EICAR-TEST-Signature / virus:DOS/EICAR_test_file
 File size 68bytes.    
 type :EICAR virus test files.     
 file score on OTX:6 (medium).      
-harmless by design - used only for testing av detection.    
+harmless by design - used only for testing av detection.      
+# Task 03 : hash Analysis .  
+On virustotal   
+Detection engine: 62/66  
+common names : EICAR-TEST-FILE  
+Eicar-test-signature .
+File type : Powershell 
+malware family : EICAR-test-file (not real malware)  
+file size : 68 bytes   
+first seen : 2012-06-14   
+community scores : 3794  
+<img width="1500" height="1041" alt="IMG_5748" src="https://github.com/user-attachments/assets/4faff018-b672-4d32-aaf4-ea63f811dc22" />  
+detected as malicious (not actually malicious ) ,malware associated is EICAR ,and we've 62 vendors that flagged this domain .  
+behavior information : This info above : powershell,long-sleeps,idle,known-distribution attachment ,via-tor etc.  
